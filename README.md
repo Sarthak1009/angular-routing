@@ -1,4 +1,5 @@
 # AngularRouting
+This project demonstrate basic routing with multiple router-outlet and concept of Lazy Loading and AuthGuard.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 
